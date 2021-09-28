@@ -1,0 +1,6 @@
+S -> aBDh
+B -> cC
+C -> bC | ε
+D -> EF
+E -> g | ε
+F -> f | ε 
